@@ -16,5 +16,5 @@ Challenges for the second part of **Cryptonite's** Junior Taskphase (JTP).
 
 The final dashboard after completing all the challenges looks like this:
 
-![Pico Score 5940](../Images/final_dashboard_screenshot.jpg)
+![Pico Score 5940](./Images/final_dashboard_screenshot.jpg)
 
