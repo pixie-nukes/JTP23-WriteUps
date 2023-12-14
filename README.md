@@ -6,4 +6,4 @@ Kindly Update Your Writeups in the respective directory under the respective men
 
 Create a Folder of your name under the Mentor and upload your work there if it's a single file or multiple anyhow.
 
-Check out the Pinned Announcement under the discussions tab!!
+Check out the Pinned Announcement under the discussions tab!!!
